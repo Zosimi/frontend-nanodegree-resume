@@ -1,0 +1,14 @@
+Resources
+
+JSON Validator
+http://jsonlint.com
+
+Flex-box guide
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Sticky plugin
+http://stickyjs.com
+https://github.com/garand/sticky
+
+The Udacity discussion forum on encapsulation technique
+http://discussions.udacity.com/t/encapsulation-technique/6918
